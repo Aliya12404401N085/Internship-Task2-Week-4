@@ -1,1 +1,10 @@
+# Saved Models
 
+The trained machine learning model is intended to be saved here.
+
+Example:
+
+- model.pkl
+- model.joblib
+
+The model is trained using Scikit-learn after preprocessing and evaluation.
